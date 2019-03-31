@@ -19,7 +19,7 @@ module.exports = {
 
     plugins: [
         new htmlWebpackPlugin({
-            title: '第二天联系Sass'
+            title: 'Sass'
         }),
         new ExtractTextPlugin('style.css')
     ],
